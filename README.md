@@ -99,7 +99,14 @@ Create a Firebase project and configure Firebase for the iOS app:
 Install dependencies using **
 
 
-https://github.com/user-attachments/assets/825b7f32-82fa-4c7e-aa9d-c0bbb776d0b6
+
+
+
+
+https://github.com/user-attachments/assets/a8836d2c-e6ce-4144-985f-6b2f53f2e157
+
+
+
 
 
 
