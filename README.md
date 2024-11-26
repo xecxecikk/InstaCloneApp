@@ -1,6 +1,6 @@
 # InstaCloneApp
 
-nstaCloneApp is a social media clone application developed in Swift using Firebase as the backend. The app leverages Swift Package Manager (SPM) for dependency management. It allows users to sign up, log in, log out, upload posts with images and comments, and interact with a feed of posts by liking or deleting them.
+InstaCloneApp is a social media clone application developed in Swift using Firebase as the backend. The app leverages Swift Package Manager (SPM) for dependency management. It allows users to sign up, log in, log out, upload posts with images and comments, and interact with a feed of posts by liking or deleting them.
 
 ## Tools and Technologies Used
 
